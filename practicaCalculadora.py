@@ -12,7 +12,7 @@ reset_pantalla=False
 
 resultado=0
 
-
+#asdasdads
 #-------------pantalla------------------------------------------- ---
 
 numeroPantalla=StringVar()
